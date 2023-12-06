@@ -1,4 +1,4 @@
-# Hi there, I'm Faudzan Sauri [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Faudzan Sauri | [Faudzan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently working as Electrical Engineering
 - 🌱 I’m currently learning VB and PYHTON
@@ -9,22 +9,27 @@
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) | Bachelor of Electrical Engineering | Surabaya `2018-2023`
+   - Asistant Laboratorium of Measuring electrical quantities
+   - Asistant Laboratorium of computer programming C
+   - Asistant Laboratorium of Programmable Logic Controller
+ #### 2. [SMK KARTIKA](https://www.smkkartika2sby.sch.id/) | Audio Video | Surabaya `2014-2017`
+   - Asistant Laboratorium
+   - student council treasurer
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
+#### 1. [Gereja Mawar Sharon](https://gms.church/) | Mechanical Engineering | Surabaya `7 Month`
+   - Maintaince building electrical and air conditioning systems
+   - Maintenance of building plumbing systems
+   - Making additional electrical installations for certain events
+#### 2. [PT Bank Pembangunan Daerah Jawa Timur](https://www.bankjatim.co.id/) | Electrical Engineering | Surabaya `4 Month`
+   - Maintaince building electrical and air conditioning systems
+   - Maintaince telephone and internet telecommunications systems
+   - Maintain the generator system in the building
+#### 3. [PLN UP2D Surabaya](https://portal.pln.co.id) | Student Intern | Surabaya `2 Month`
    - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Manage for scada systems
+   - Distribution panel maintenance research
 ---
 
 ### Languages and Tools:
