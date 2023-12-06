@@ -45,8 +45,8 @@
 
 ---
 ### Connect with me:
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@faudzansauri7620#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@faudzansauri7620#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@faudzansauri7620)#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@faudzansauri7620)#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/faudzan-s-7898aa113/)#gh-light-mode-only)
