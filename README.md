@@ -1,5 +1,5 @@
 # Hi there, I'm Faudzan Sauri | [Faudzan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
-## About me:
+## About me: 
 - 🔭 I’m currently working as Electrical Engineering
 - 🌱 I’m currently learning VB and PYHTON
 - 👯 I’m looking to collaborate as ELectrical and Website
