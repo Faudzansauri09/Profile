@@ -6,6 +6,7 @@
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: Faudzansauri@gmail.com
+- 💻 My [experience project](https://github.com/Faudzansauri09/Portofolio)
 
 ## Education:
 
