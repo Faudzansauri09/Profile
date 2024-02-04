@@ -19,7 +19,7 @@
    - student council treasurer
 
 ## Work Experience:
-#### 1. [Gereja Mawar Sharon](https://gms.church/) | Mechanical Engineering | Surabaya `7 Month`
+#### 1. [Gereja Mawar Sharon](https://gms.church/) | Mechanical Engineering | Surabaya `8 Month`
    - Maintaince building electrical and air conditioning systems
    - Maintenance of building plumbing systems
    - Making additional electrical installations for certain events
